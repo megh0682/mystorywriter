@@ -1,0 +1,48 @@
+body{
+	
+background-color:#99ccff;
+	
+}
+
+#canvas{
+   	border:2px solid grey;
+    cursor:crosshair ;
+    background-color:#fff;
+}
+span {
+	margin: 5px; 
+    padding: 10px; 
+}
+
+
+header{
+    background-color:black;
+    color:#ddd;
+    text-align:center;
+    padding:5px;
+}
+
+footer {
+    background-color:black;
+    color:#ddd;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+header img {
+  float: left;
+  width: 75px;
+  height:75px;
+  background: #000;
+}
+
+textarea {
+  resize: none;
+  font-size: 13px;
+  padding: 10px;
+  height:38px;
+  min-height: 38px;
+  width: 500px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
