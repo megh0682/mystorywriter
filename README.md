@@ -8,6 +8,6 @@
 - User can download a pdf copy of a story
 - User can edit their profile with a new avatar.
 
-Please checkout the web application here: [mystorywriter] (http://mystorywriter-dev.us-west-2.elasticbeanstalk.com/)
+Please checkout the web application here: [mystorywriter] (http://ec2-52-10-113-248.us-west-2.compute.amazonaws.com/)
 
 
